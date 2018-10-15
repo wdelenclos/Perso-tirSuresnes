@@ -88,6 +88,9 @@
 									<a href="blog-left-sidebar.html">Les guides du tir sportif </a>
 								</li>
 								<li>
+									<a href="blog-right-sidebar.html">Réglement interieur</a>
+								</li>
+								<li>
 									<a href="blog-right-sidebar.html">Réglement de la FFT</a>
 								</li>
 							</ul>
